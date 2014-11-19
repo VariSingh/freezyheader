@@ -19,4 +19,4 @@ Here .tableClass is any class that the table has
  
 <h3>Dependencies</h3> 
 
-jquery-1.7.min.js. I have not tested this with latest version. Will do in next update
+jquery-1.7.min.js. I have not tested this with latest version. Will do in next update.
